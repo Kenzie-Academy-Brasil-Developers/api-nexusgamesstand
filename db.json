@@ -3,9 +3,49 @@
     {
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "username": "Kenzinho",
+      "id": 1,
+      "custom_games": []
+    },
+    {
+      "email": "adam@mail.com",
+      "password": "$2a$10$6qbNRH0SsCQfwJuQcMcFyuB4h4TFRjzBDABAcVL7W0buZ.EAIQ8w.",
+      "username": "ADAM",
+      "id": 2
+    },
+    {
+      "email": "yan@mail.com",
+      "password": "$2a$10$vugHNzN.RayxSgbUkQ0R1OB7zwt6b6NvNxAWM5nXwmJDjjHWW.4oO",
+      "username": "Yan",
+      "id": 3
+    },
+    {
+      "email": "katya@mail.com",
+      "password": "$2a$10$beh8rqa6wu8M48ZFDr4iUO8HcUjVwfMQq5fAWYR2Di2K0C0tZmSZG",
+      "username": "Katya",
+      "id": 4
+    },
+    {
+      "email": "welton@mail.com",
+      "password": "$2a$10$ptiiSlOM59oroae89eBVBuiAzX19xYzAs6tyz69maAGc0GSbuZDye",
+      "username": "Ben Gadura",
+      "id": 5,
+      "userId": 5,
+      "steam_id": "76561198355261730"
+    }
+  ],
+  "custom_games": [
+    {
+      "name": "League of Legends",
+      "platform": "Riot Games",
+      "userId": 5,
       "id": 1
+    },
+    {
+      "name": "Battlefield 4",
+      "platform": "Origin",
+      "userId": 5,
+      "id": 2
     }
   ]
 }
