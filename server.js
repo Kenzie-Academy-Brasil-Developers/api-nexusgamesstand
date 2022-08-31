@@ -11,6 +11,7 @@ app.db = router.db;
 const rules = auth.rewriter({
   users: 600,
   custom_games: 640,
+  library: 640,
 });
 
 app.use(cors());
