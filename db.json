@@ -9,7 +9,7 @@
     {
       "email": "adam@mail.com",
       "password": "$2a$10$6qbNRH0SsCQfwJuQcMcFyuB4h4TFRjzBDABAcVL7W0buZ.EAIQ8w.",
-      "username": "ADAM",
+      "username": "Adam N.",
       "id": 2
     },
     {
@@ -27,10 +27,8 @@
     {
       "email": "welton@mail.com",
       "password": "$2a$10$ptiiSlOM59oroae89eBVBuiAzX19xYzAs6tyz69maAGc0GSbuZDye",
-      "username": "Ben Gadura",
-      "id": 5,
-      "userId": 5,
-      "steam_id": "76561198355261730"
+      "username": "Welton",
+      "id": 5
     }
   ],
   "custom_games": [
