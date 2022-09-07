@@ -2,7 +2,7 @@
   "users": [
     {
       "email": "teste@mail.com",
-      "password": "senha",
+      "password": "$2a$10$AX37gDOWSz8acSudcRCAaO6rdNQXYeu2IJfppyGJ4y.CXdZY5AJ2e",
       "username": "Perfil De Teste",
       "id": 1,
       "steam": "srulf",
@@ -13,7 +13,7 @@
     },
     {
       "email": "adam@mail.com",
-      "password": "senha",
+      "password": "$2a$10$AX37gDOWSz8acSudcRCAaO6rdNQXYeu2IJfppyGJ4y.CXdZY5AJ2e",
       "username": "Adam N.",
       "id": 2,
       "steam": "luwny",
@@ -24,7 +24,7 @@
     },
     {
       "email": "katya@mail.com",
-      "password": "senha",
+      "password": "$2a$10$AX37gDOWSz8acSudcRCAaO6rdNQXYeu2IJfppyGJ4y.CXdZY5AJ2e",
       "username": "Katya",
       "id": 3,
       "steam": "chumbador007",
@@ -34,7 +34,7 @@
     },
     {
       "email": "yan@mail.com",
-      "password": "senha",
+      "password": "$2a$10$AX37gDOWSz8acSudcRCAaO6rdNQXYeu2IJfppyGJ4y.CXdZY5AJ2e",
       "username": "Yan",
       "id": 5,
       "steam": "srulf",
@@ -45,7 +45,7 @@
     },
     {
       "email": "welton@mail.com",
-      "password": "senha",
+      "password": "$2a$10$AX37gDOWSz8acSudcRCAaO6rdNQXYeu2IJfppyGJ4y.CXdZY5AJ2e",
       "username": "Welton",
       "id": 5,
       "steam": "EGGofSEX",
