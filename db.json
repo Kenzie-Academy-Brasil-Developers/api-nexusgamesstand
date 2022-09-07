@@ -1,34 +1,58 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "username": "Kenzinho",
-      "id": 1
+      "email": "teste@mail.com",
+      "password": "senha",
+      "username": "Perfil De Teste",
+      "id": 1,
+      "steam": "srulf",
+      "epic": "epico gomes",
+      "playstation": "carlos el topo que gira",
+      "xbox": false,
+      "imageURL": "https://img.ifunny.co/images/b52db67a70b8fc011fe5c872ff3064675601f205f5872bee61a9d1f84aaa646b_1.jpg"
     },
     {
       "email": "adam@mail.com",
-      "password": "$2a$10$6qbNRH0SsCQfwJuQcMcFyuB4h4TFRjzBDABAcVL7W0buZ.EAIQ8w.",
+      "password": "senha",
       "username": "Adam N.",
-      "id": 2
-    },
-    {
-      "email": "yan@mail.com",
-      "password": "$2a$10$vugHNzN.RayxSgbUkQ0R1OB7zwt6b6NvNxAWM5nXwmJDjjHWW.4oO",
-      "username": "Yan",
-      "id": 3
+      "id": 2,
+      "steam": "luwny",
+      "epic": "Epic Adam",
+      "playstation": "PS Adam",
+      "xbox": false,
+      "imageURL": "https://discord.com/channels/@me/1001541880510697572/1017125879081603112"
     },
     {
       "email": "katya@mail.com",
-      "password": "$2a$10$beh8rqa6wu8M48ZFDr4iUO8HcUjVwfMQq5fAWYR2Di2K0C0tZmSZG",
+      "password": "senha",
       "username": "Katya",
-      "id": 4
+      "id": 3,
+      "steam": "chumbador007",
+      "epic": "epic user",
+      "playstation": "Ps User",
+      "xbox": false
+    },
+    {
+      "email": "yan@mail.com",
+      "password": "senha",
+      "username": "Yan",
+      "id": 5,
+      "steam": "srulf",
+      "epic": "tigre pidão",
+      "playstation": "pede farinha na cumbuca",
+      "xbox": false,
+      "imageURL": "https://pbs.twimg.com/media/FaZk-iNXEAIoF9F.png"
     },
     {
       "email": "welton@mail.com",
-      "password": "$2a$10$ptiiSlOM59oroae89eBVBuiAzX19xYzAs6tyz69maAGc0GSbuZDye",
+      "password": "senha",
       "username": "Welton",
-      "id": 5
+      "id": 5,
+      "steam": "EGGofSEX",
+      "epic": "epico gomes",
+      "playstation": "carlos el topo que gira",
+      "xbox": false,
+      "imageURL": "https://psxbrasil.com.br/wp-content/uploads/2021/09/FAY0OiuVkAEurve.jpg"
     }
   ],
   "custom_games": [
